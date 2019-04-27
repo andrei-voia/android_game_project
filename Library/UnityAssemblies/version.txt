@@ -1,0 +1,7 @@
+5.4.1f1:2.3.0.0
+Android
+D:/Andrusca/programe/Unity/Editor/Data/Managed/UnityEngine.dll
+D:/Andrusca/programe/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Andrusca/programe/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Andrusca/programe/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/Andrusca/programe/Unity/Editor/Data/Managed/UnityEditor.dll
