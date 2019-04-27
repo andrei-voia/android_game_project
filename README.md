@@ -25,3 +25,11 @@ This is how i decided to make the icon of the game:
 * It represents the new elements added by me to the original map and the fact that it is a picture within a picture protrays the fact that the game is meant to represent a stylised walkthrough in a popular map. It's more of a showcase.
 
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/android%20icon1.png "icon")
+
+## In-game pictures
+
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/1.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/2.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/3.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/4.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/5.jpg "imgs")
