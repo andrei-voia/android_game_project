@@ -26,6 +26,12 @@ This is how i decided to make the icon of the game:
 
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/android%20icon1.png "icon")
 
+## How to play
+
+You will be able to walk through the map everywhere you want and see whatever mapzone you want.
+* The way you move in the game is simple, the left half of the screen is used for movement, just touch wherever you want in that half and slide to move in that direction,
+* The right half of the screen is used for orbiting (looking aroung). It works the same way as the left side, just touch and move to orbit in that direction.
+
 ## In-game pictures
 
 * Here are some screenshots taken in-game from my smartphone:
