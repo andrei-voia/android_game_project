@@ -12,9 +12,6 @@ You can find the installer for your Android smartphone in the "APK installer" fo
 
 ## Click to play youtube video:
 
-This is a s
-
-
 https://www.youtube.com/watch?v=SwQiqci6MNQ
 
 <a href="https://www.youtube.com/watch?v=SwQiqci6MNQ
