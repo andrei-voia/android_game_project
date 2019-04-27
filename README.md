@@ -6,4 +6,6 @@ de_dust is a very popular map from Counter Strike. I recreated that map in 3D fr
 ## Launcher Icon picture
 
 This is how i decided to make the icon of the game:
+* It represents the new elements added by me to the original map and the fact that it is a picture within a picture protrays the fact that the game is meant to represent a stylised walkthrough in a popular map. It's more of a showcase.
+
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/android%20icon1.png "icon")
