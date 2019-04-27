@@ -28,8 +28,16 @@ This is how i decided to make the icon of the game:
 
 ## In-game pictures
 
+* Here are some screenshots taken in-game from my smartphone:
+
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/1.jpg "imgs")
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/2.jpg "imgs")
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/3.jpg "imgs")
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/4.jpg "imgs")
 ![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/5.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/6.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/7.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/8.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/9.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/10.jpg "imgs")
+![alt text](https://github.com/andrei-voia/android_game_project/blob/master/imgs/11.jpg "imgs")
