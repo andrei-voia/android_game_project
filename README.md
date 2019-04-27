@@ -10,6 +10,15 @@ You can find the installer for your Android smartphone in the "APK installer" fo
 * Simply copy it in your smartphone and install it normally from there
 
 
+## Click to play youtube video:
+
+https://www.youtube.com/watch?v=SwQiqci6MNQ
+
+<a href="https://www.youtube.com/watch?v=SwQiqci6MNQ
+" target="_blank"><img src="https://github.com/andrei-voia/android_game_project/blob/master/yticon.jpg" 
+alt="IMAGE ALT TEXT HERE" width="320" height="180" border="10" /></a>
+
+
 ## Launcher Icon picture
 
 This is how i decided to make the icon of the game:
